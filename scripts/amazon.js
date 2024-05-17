@@ -1,3 +1,5 @@
+import {cart} from '../data/cart.js';
+
 // Store all product elements as a string
 let productsHTML = '';
 
